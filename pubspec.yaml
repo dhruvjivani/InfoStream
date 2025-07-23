@@ -1,0 +1,17 @@
+name: infostream
+description: Flutter app showing weather and news via APIs
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.1.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.6
+  connectivity_plus: ^5.0.1
+  provider: ^6.1.1
+  shared_preferences: ^2.2.2
+
+flutter:
+  uses-material-design: true
