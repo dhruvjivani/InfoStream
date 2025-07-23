@@ -52,23 +52,32 @@ A sleek and dynamic Flutter app that displays weather data and news from public 
 - Search filter for news
 - Light/Dark mode toggle with `SharedPreferences`
 
----
+
 
 ## 📸 Screenshots
 
-### 📡 Home Screen
-![Error Handling](screenshots/home_screen.png)
-
-### 🌤 Weather GridView
-![Weather Grid](screenshots/weather_grid.png)
-
-### 🏙 Add City + Persistent Storage
-![Add City](screenshots/add_city.png)
-
-### 📰 News ListView + Search + Dropdown
-![News Screen](screenshots/news_screen.png)
-
----
+```
+<table>
+  <tr>
+    <td align="center">
+      <strong>🏠 Home Screen</strong><br>
+      <img src="screenshots/home_screen.png" width="200">
+    </td>
+    <td align="center">
+      <strong>🌤 Weather Grid</strong><br>
+      <img src="screenshots/weather_grid.png" width="200">
+    </td>
+    <td align="center">
+      <strong>➕ Add City</strong><br>
+      <img src="screenshots/add_city.png" width="200">
+    </td>
+    <td align="center">
+      <strong>📰 News List</strong><br>
+      <img src="screenshots/news_screen.png" width="200">
+    </td>
+  </tr>
+</table>
+```
 
 ## 💬 Error Handling Strategy
 
