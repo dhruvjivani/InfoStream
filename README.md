@@ -52,11 +52,10 @@ A sleek and dynamic Flutter app that displays weather data and news from public 
 - Search filter for news
 - Light/Dark mode toggle with `SharedPreferences`
 
-
+---
 
 ## 📸 Screenshots
 
-```
 <table>
   <tr>
     <td align="center">
@@ -77,7 +76,8 @@ A sleek and dynamic Flutter app that displays weather data and news from public 
     </td>
   </tr>
 </table>
-```
+
+---
 
 ## 💬 Error Handling Strategy
 
